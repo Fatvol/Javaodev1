@@ -1,2 +1,2 @@
 # Javaodev1
-Kodluyoruz java ödev 1
+Kodluyoruz java ödev1
